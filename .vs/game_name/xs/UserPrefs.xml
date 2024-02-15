@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{46A61EB9-B004-655F-7CC0-74E62140D8DD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Bird.cs">
+    <Files>
+      <File FileName="Assets/Bird.cs" Line="27" Column="30" />
+      <File FileName="Assets/pipeMove.cs" Line="23" Column="10" />
+      <File FileName="Assets/pipeScript.cs" Line="8" Column="27" />
+      <File FileName="Assets/logic.cs" Line="28" Column="40" />
+      <File FileName="Assets/middlePipeScript.cs" Line="12" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="game_name" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Bird.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f18929cf-c280-48ad-ae58-ebb4b84e8863" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
